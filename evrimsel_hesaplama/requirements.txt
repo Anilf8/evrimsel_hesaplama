@@ -1,0 +1,11 @@
+numpy==2.4.5
+scipy==1.17.1
+librosa==0.11.0
+soundfile==0.13.1
+pedalboard==0.9.23
+matplotlib==3.10.9
+seaborn==0.13.2
+pandas==3.0.3
+cma==4.4.4
+stats_utils==0.1.1
+scikit-posthocs
